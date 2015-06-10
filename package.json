@@ -1,0 +1,25 @@
+{
+  "name": "angular-photoio",
+  "version": "0.0.4",
+  "description": "A pure Angular.js P.hoto.io directive",
+  "main": "angular-photoio.js",
+  "directories": {},
+  "dependencies": {},
+  "scripts": {},
+  "keywords": [
+    "angular.js",
+    "angular",
+    "photo",
+    "image",
+    "manipulation"
+  ],
+  "authors": [
+    "Joshua Powell <joshua@viable.io>"
+  ],
+  "license": "AGPL 3.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:viableindustries/angular-p.hoto.io.git"
+  }
+}
