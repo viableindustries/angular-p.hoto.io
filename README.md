@@ -2,6 +2,12 @@
 
 This directive is intended for use with your http://p.hoto.io/ account.
 
+## Installation
+
+````
+bower install angular-photoio --save
+````
+
 ## Basic Usage
 
 ````
