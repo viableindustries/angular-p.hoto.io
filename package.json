@@ -1,6 +1,6 @@
 {
   "name": "angular-photoio",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "A pure Angular.js P.hoto.io directive",
   "main": "angular-photoio.js",
   "directories": {},
