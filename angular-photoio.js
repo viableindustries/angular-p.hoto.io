@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('photoio')
+angular.module('angularPhotoio')
   .directive('photoio', function () {
     return {
       restrict: 'A',
